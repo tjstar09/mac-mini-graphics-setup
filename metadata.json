@@ -1,0 +1,6 @@
+{
+  "name": "Mac Mini 2018 eGPU Engineering Manual",
+  "description": "Interactive master engineering document and procurement guide for deploying an NVIDIA RTX 4060 Ti 16GB eGPU on a 2018 Intel Mac Mini via Windows Boot Camp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
